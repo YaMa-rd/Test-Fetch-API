@@ -13,3 +13,7 @@ on crée une variable qui fournira un nombre aléatoire entre 1 et 200\
 et on l’intègre dans l' URL recherchée
 
 on ajoute un bouton qui rafraichit la page et par conséquent la recherche.
+
+
+
+![alt text](https://github.com/YaMa-rd/Test-Fetch-API/blob/master/img/img.png?raw=true)
