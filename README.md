@@ -1,7 +1,5 @@
 # Test-Fetch-API
 
-
-
 le but ici est de récupérer les données du site https://jsonplaceholder.typicode.com/
 et d'arriver à les afficher dynamiquement sur une page web simple.
 
@@ -14,7 +12,4 @@ et on l’intègre dans l' URL recherchée
 
 on ajoute un bouton qui rafraichit la page et par conséquent la recherche.
 
-
-
-![alt text](https://github.com/YaMa-rd/Test-Fetch-API/blob/master/img/ex.gif?raw=true)
-
+![alt text](https://github.com/YaMa-rd/Test-Fetch-API/blob/master/img/demo.gif?raw=true)
