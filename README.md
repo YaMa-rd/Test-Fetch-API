@@ -16,4 +16,5 @@ on ajoute un bouton qui rafraichit la page et par conséquent la recherche.
 
 
 
-![alt text](https://github.com/YaMa-rd/Test-Fetch-API/blob/master/img/img.png?raw=true)
+![alt text](https://github.com/YaMa-rd/Test-Fetch-API/blob/master/img/ex.gif?raw=true)
+
