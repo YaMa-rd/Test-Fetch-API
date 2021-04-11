@@ -2,7 +2,7 @@
 
 
 
-le but ici est de récupérer les données du site https://jsonplaceholder.typicode.com/\
+le but ici est de récupérer les données du site https://jsonplaceholder.typicode.com/
 et d'arriver à les afficher dynamiquement sur une page web simple.
 
 pour ce faire on va utiliser la méthode globale Fetch()
